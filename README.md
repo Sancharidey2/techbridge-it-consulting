@@ -9,7 +9,7 @@ This is a simple IT consulting and staffing website created using HTML, CSS, Boo
 - PHP
 
 ## 🌐 Live Website
-👉 https://techbridge.infinityfreeapp.com
+👉 https://techbridgee.infinityfreeapp.com/?i=1
 
 ## 💻 Source Code
 👉 https://github.com/Sancharidey2/techbridge-it-consulting
